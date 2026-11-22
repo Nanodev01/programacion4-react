@@ -1,0 +1,14 @@
+**/docs/
+**/node_modules/
+
+# Environment files (keep the example template tracked)
+.env
+.env.*
+!.env.example
+
+# Generated files
+dist/
+build/
+coverage/
+*.log
+.DS_Store

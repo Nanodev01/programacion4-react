@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: #eef4fb;
+  color: #1e3a5f;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+}
+
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+input,
+select,
+button {
+  border-radius: 6px;
+  border: 1px solid #9bb4d1;
+  padding: 5px 10px;
+  margin: 3px;
+}
+
+button {
+  background-color: #dbe8f7;
+  color: #16324f;
+  cursor: pointer;
+}
+
+.error {
+  color: #b00020;
+}
