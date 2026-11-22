@@ -25,4 +25,6 @@ function Ej7() {
   )
 }
 
-export default Ej7
+export default Ej7   
+
+

@@ -17,5 +17,5 @@ function Ej1() {
     </div>
   )
 }
-
+// Exporta Ej1
 export default Ej1
